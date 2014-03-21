@@ -1,4 +1,4 @@
-package convexSoftware.sampleandroidtest;
+package convexSoftware.testandroidapp;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
